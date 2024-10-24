@@ -1,2 +1,2 @@
 # campusHub
-It is a website for campus .
+It is a website for Campus.
